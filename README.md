@@ -5,11 +5,7 @@
 
 ## 🧰 Tech-Stack
 - Java • Spring Boot • React • MySQL
-- Python • Git • C++ • HTML/CSS
-- 
-## IDE
-- VS Code 
-- IntelliJ IDEA
+- Python • Git • C++ • HTML/CSS • VS Code • IntelliJ IDEA
 
 ## 🌱 Aktuelle Projekte
 - [KIHBA ERP](https://github.com/Wayveee/kihba-erp)
