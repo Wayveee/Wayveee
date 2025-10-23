@@ -8,9 +8,9 @@
 - Python • Git • C++ • HTML/CSS • VS Code • IntelliJ IDEA
 
 ## 🌱 Aktuelle Projekte
-- [KIHBA ERP](https://github.com/Wayveee/kihba-backend)
+- [JAVA_KIHBA BACKEND](https://github.com/Wayveee/kihba-backend)
 - [WoW Token_Traker](https://github.com/Wayveee/wow-token-traker)
-- [Page_Cropper](https://github.com/Wayveee/book-page-cropper)
+- [PYTHON_PAGE_CROPPER](https://github.com/Wayveee/Book_page_cropper )
 
 ## 🎓 Studium
 📚 Informatik/Softwaretechnik @ TH Lübeck  
