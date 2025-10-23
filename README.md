@@ -1,4 +1,4 @@
-# 👋 Hi, ich bin Justin Schwarz
+# 👋 Justin Schwarz
 
 💻 Informatik Student an der TH Lübeck | Werkstudent bei Topmotive  
 🚀 Leidenschaft: Automatisierung & Business-Software  
