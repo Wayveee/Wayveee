@@ -8,7 +8,7 @@
 - Python • Git • C++ • HTML/CSS • VS Code • IntelliJ IDEA
 
 ## 🌱 Aktuelle Projekte
-- [KIHBA ERP](https://github.com/Wayveee/kihba-erp)
+- [KIHBA ERP](https://github.com/Wayveee/kihba-backend)
 - [WoW Token_Traker](https://github.com/Wayveee/wow-token-traker)
 - [Page_Cropper](https://github.com/Wayveee/book-page-cropper)
 
