@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, ich bin Justin Schwarz
 
-<!--
-**Wayveee/Wayveee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Informatik Student an der TH Lübeck | Werkstudent bei Topmotive  
+🚀 Leidenschaft: Automatisierung & Business-Software  
 
-Here are some ideas to get you started:
+## 🧰 Tech-Stack
+- Java • Spring Boot • React • MySQL
+- Python • Git • C++ • HTML/CSS
+- 
+## IDE
+- VS Code 
+- IntelliJ IDEA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Aktuelle Projekte
+- [KIHBA ERP](https://github.com/Wayveee/kihba-erp)
+- [WoW Token_Traker](https://github.com/Wayveee/wow-token-traker)
+- [Page_Cropper](https://github.com/Wayveee/book_page-cropper)
+
+## 🎓 Studium
+📚 Informatik/Softwaretechnik @ TH Lübeck  
+🏢 Werkstudent @ Topmotive  
+
+## 📫 Kontakt
+📧 Justin.blck303@gmail.com  
+💼 [LinkedIn](https://linkedin.com/in/justin-schwarz-work)
