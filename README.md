@@ -10,7 +10,7 @@
 ## 🌱 Aktuelle Projekte
 - [KIHBA ERP](https://github.com/Wayveee/kihba-erp)
 - [WoW Token_Traker](https://github.com/Wayveee/wow-token-traker)
-- [Page_Cropper](https://github.com/Wayveee/book_page-cropper)
+- [Page_Cropper](https://github.com/Wayveee/book-page-cropper)
 
 ## 🎓 Studium
 📚 Informatik/Softwaretechnik @ TH Lübeck  
