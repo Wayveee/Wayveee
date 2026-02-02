@@ -9,7 +9,6 @@
 
 ## 🌱 Aktuelle Projekte
 - [JF_Alarmsystem](https://github.com/Wayveee/JF_Alarmsystem)
-- [WoW Token_Traker](https://github.com/Wayveee/wow-token-traker)
 - [PYTHON_PAGE_CROPPER](https://github.com/Wayveee/Book_page_cropper )
 
 ## 🎓 Studium
