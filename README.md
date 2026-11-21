@@ -5,12 +5,11 @@
 
 ## 🧰 Tech-Stack
 - Java • Spring Boot • JavaFX
-- HTML/CSS • TypeScript • React
-- Python • C++
+- HTML/CSS • TypeScript • Angular
+- Python • C++ • C# • C
 - MySQL
 - VSCode • JETBRAINS IDES • Git
-( Working on C#.Net and Angular )
-
+  
 ## 🌱 Aktuelle Projekte
 - [JF_Alarmsystem](https://github.com/Wayveee/JF_Alarmsystem)
 - [PYTHON_PAGE_CROPPER](https://github.com/Wayveee/Book_page_cropper)
